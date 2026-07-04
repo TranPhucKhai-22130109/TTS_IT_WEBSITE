@@ -17,6 +17,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata = {
+  metadataBase: new URL("http://localhost:3000"),
   title: "iPhone 17 Pro - Thiết kế tương lai | Apple",
   description: "Khám phá thế hệ iPhone 17 Pro hoàn toàn mới với chip xử lý A19 Pro mạnh mẽ, camera đột phá và tích hợp trí tuệ nhân tạo Apple Intelligence.",
   keywords: ["iPhone 17", "iPhone 17 Pro", "Apple Intelligence", "A19 Pro", "Apple Vietnam", "Titanium"],
